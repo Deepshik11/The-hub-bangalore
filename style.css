@@ -1806,6 +1806,7 @@ body {
 @media (max-width: 581px) {
   .secound-box {
     flex-direction: row;
+    justify-content: center;
   }
 
   #vimage {
